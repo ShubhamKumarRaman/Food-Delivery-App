@@ -65,3 +65,5 @@ Important extensions for VS code
 - ES7+ React
 - Icons
 - javascript ES6 scipt
+
+- npx create-react-app gofood
