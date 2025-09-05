@@ -1,0 +1,67 @@
+Introduction
+---------------
+MERN stands for MongoDB, Express, React, Node after the four key technologies that make up the stack that is used for easier and faster deployment of full-stack web applications. 
+- MongoDB - document database
+- Express - Node.js web framework
+- React - a client-side javascript library
+- Node - the premier javascript web server
+
+Application(frontend) -------------Backend Server (API) ---------------------MongoDB
+
+Q. How does the MERN Stack work?
+Ans:- The MERN architecture allows you to easily construct a 3-tier architecture (frontend, backend, database) entirely using javascript and JSON. 
+
+MongoDB
+--------
+- NoSQL database used for high-volume data storage. 
+- OPen-source document-oriented database. 
+- It stores data in JSON format. 
+- can be easily used with Node. 
+- MongoDB used BSON to query database. 
+- Documents containing key-value pairs are the basic units of data in MongoDB. 
+
+Node.js
+--------
+- Node.js allows you to run javascript on the server. 
+- It is free & open source, written in C++. 
+- Node.js runs single-threaded, non-blocking, asynchronous programming, which is very memory efficient. 
+
+Q. Where to use NodeJS?
+- back-end services such as APIs. Highly scalable, data-intensive and real-time apps. 
+- I/O bounds applications. 
+- Single page applications. 
+
+Q. Where not to use NodeJS?
+- Node.js is not used in CPU intensive apps which requires calculations done by CPU. 
+
+
+Express JS
+-----------
+- Flexible Node.js framework that provides robust set of features for web and mobile application. 
+- It provides easy routing of requests based on HTTP methods and URLs. 
+- It allows to set up middlewares to respond to HTTP request. 
+- Allows to dynamically render HTML pages based on passing arguments to templates. 
+
+React JS
+------------
+- A javascript library for building user interfaces for web and mobile applications. 
+- React is used to build single-page applications. 
+- React allows us to create reusable UI components. 
+- React-route to handle the front-end routing. 
+
+Q. Why React?
+- JSX(javascript XML) makes it easier and simpler to write React components. 
+- ReactJS supports components. These components also promote code reusability and make the overall web application easier to understand and debug. 
+
+Q. How does React work?
+- Instead of manipulating the browser's DOM directly, React creates a Virtual DOM in memory, where it does all the necessary manipulating, before making the changes in the browswer DOM. 
+- React finds out what changes have been make, and changes only what needs to be changed. 
+
+
+-----------------------------------------------------------------------------------------
+Important extensions for VS code
+- Auto Rename Tag
+- Bootstrap 5
+- ES7+ React
+- Icons
+- javascript ES6 scipt
