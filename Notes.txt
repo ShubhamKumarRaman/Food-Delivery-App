@@ -79,5 +79,8 @@ framework = React
 Variant= javascript
 - cd frontend
 - npm install ( to install dependencies)
-- npm instal react-router-dom
+- npm install react-router-dom
+- npm run dev
+
+rafce - react snipit
 
